@@ -1,4 +1,4 @@
 MyWorld
 =======
 
-A sample hello world program , my Repository on GitHub :D
+A sample hello world , my  first Repository on GitHub :D
